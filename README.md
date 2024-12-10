@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **code, videogames and AI**
 
-- 📫 How to reach me **arturo@talktokai.com**
+- 📫 How to reach me **arturoardura2024@outlook.com**
 
 - ⚡ Fun fact **i sing as hobby and side job**
 
