@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arturo Ardura</h1>
 <h3 align="center">A hard-worker mobile developer from Mexico</h3>
 
-- 🔭 I’m currently working on [kAI](https://talktokai.com)
+- 🔭 I’m currently working on Schlumberger Unlimited
 
-- 🌱 I’m currently learning **iOS development**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **code, videogames and AI**
 
-- 📫 How to reach me **arturoardura2024@outlook.com**
+- 📫 How to reach me **arturoardurapalacios@gmail.com**
 
-- ⚡ Fun fact **i sing as hobby and side job**
+- ⚡ Fun fact **i sing as hobby hehe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
