@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arturo Ardura</h1>
 <h3 align="center">A hard-worker mobile developer from Mexico</h3>
 
-- 🔭 I’m currently working on Schlumberger Unlimited
+- 🔭 I’m currently working on Schlumberger Unlimited and kAI
 
 - 🌱 I’m currently learning **React Native**
 
